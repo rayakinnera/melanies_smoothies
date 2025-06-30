@@ -1,5 +1,7 @@
 import streamlit as st
-from snowflake.snowpark.functions import col
+from streamlit
+pandas
+snowflake-snowpark-python import col
 import pandas as pd # Needed for .to_pandas()
 
 streamlit.title("My Parents new Healthy Diner")
